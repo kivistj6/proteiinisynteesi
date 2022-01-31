@@ -1,0 +1,31 @@
+t2_rna for unittest: augguaauugggcgccuucguaaggauuaa
+Met
+Val
+Ile
+Gly
+Arg
+Leu
+Arg
+Lys
+Asp
+Stop
+
+new version:
+rna: auggauacgcacggaaccacucuugaaauccauuuucuauuga
+preRna: augguaauugggcgccuucguaaggauuaacgccggagucagauacgcacggaaccacucuugaaauccauuuucuauuga
+dna:
+
+Met
+Ile
+Arg
+Thr
+Glu
+Pro
+Leu
+Leu
+Lys
+Ser
+Ile
+Phe
+Tyr
+Opal
