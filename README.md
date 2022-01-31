@@ -2,7 +2,7 @@
 # Jaana's protein synthesis project for y2 2021 
 
 ## Folder structure
-* [user manual & project structure](https://version.aalto.fi/gitlab/kivistj6/proteiinisynteesi_y2_2021/-/tree/master/doc)
+* [user manual & project structure](https://github.com/kivistj6/proteiinisynteesi/blob/master/doc/projektidokumentaatio.pdf)
 * [source codes](https://github.com/kivistj6/proteiinisynteesi/tree/master/src)
 
 Project documentation
