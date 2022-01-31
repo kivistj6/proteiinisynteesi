@@ -1,10 +1,11 @@
+
 # Jaana's protein synthesis project for y2 2021 
 
 ## Folder structure
-* [documents](https://version.aalto.fi/gitlab/kivistj6/proteiinisynteesi_y2_2021/-/tree/master/doc)
-* [sources](https://version.aalto.fi/gitlab/kivistj6/proteiinisynteesi_y2_2021/-/tree/master/src)
+* [user manual & project structure](https://version.aalto.fi/gitlab/kivistj6/proteiinisynteesi_y2_2021/-/tree/master/doc)
+* [source codes](https://github.com/kivistj6/proteiinisynteesi/tree/master/src)
 
-Documents folder includes project plan and project documentation files. Project documentation
+Project documentation
 includes structure, design choices, used algorithms and detailed user manual.
 
 Sources folder includes source files, several text files for testing and test files. All source code files are .py files.
